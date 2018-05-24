@@ -3,6 +3,7 @@
     "description": "Bitcoincash JSON-RPC Service Provider for Laravel",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Sundari",
@@ -16,6 +17,5 @@
     },
     "require-dev": {
         "phpunit/phpunit": "6.3.*"
-      
     }
 }
