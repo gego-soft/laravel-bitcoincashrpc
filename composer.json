@@ -1,5 +1,5 @@
 {
-    "name": "gego-soft/laravel-bitcoincashrpc",
+    "name": "gegosoft/laravel-bitcoincashrpc",
     "description": "Bitcoincash JSON-RPC Service Provider for Laravel",
     "type": "library",
     "license": "MIT",
