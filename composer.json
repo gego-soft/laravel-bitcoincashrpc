@@ -31,6 +31,9 @@
            "providers": [
                "Gegosoft\\Bitcoincash\\Providers\\ServiceProvider"
            ]
+       },
+       "aliases": {
+           "Bitcoincashd": "Gegosoft\\Bitcoincash\\Facade"
        }
    }
 }
